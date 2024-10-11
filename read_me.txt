@@ -1,0 +1,1 @@
+Head to fred api website to get an api key - https://fred.stlouisfed.org/docs/api/api_key.html
